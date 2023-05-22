@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "680566903882",
+    "project_id": "collectifydb-10791",
+    "storage_bucket": "collectifydb-10791.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680566903882:android:fb52591f7449321fd402b3",
+        "android_client_info": {
+          "package_name": "com.example.collectify_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680566903882-tthlgb1poa1kddobkd664r7pqi4q0tep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdUUpdzhStjLBfAt0Vgk86Yi91IVRosfg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680566903882-tthlgb1poa1kddobkd664r7pqi4q0tep.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
